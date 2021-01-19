@@ -1,2 +1,5 @@
-# Hello-World
- Primeiro repositório 
+# Hello, World1
+ Primeiro repositório.
+
+ Repositório criado para teste e aprendizado.
+ 
